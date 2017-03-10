@@ -1,2 +1,2 @@
 # web-crawler
-Web crawler to search words on a website
+Web crawler to search words on a website.
